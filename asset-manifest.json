@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/rp-course-enrolment-portal/static/css/main.2e67aa29.css",
+    "main.js": "/rp-course-enrolment-portal/static/js/main.1faf5bdf.js",
+    "static/media/soi-hero-banner-2024.jpg": "/rp-course-enrolment-portal/static/media/soi-hero-banner-2024.7455aee66183ba225061.7455aee66183ba225061.jpg",
+    "static/media/rp-logo.png": "/rp-course-enrolment-portal/static/media/rp-logo.a76b4d6a8e6239425057.a76b4d6a8e6239425057.png",
+    "index.html": "/rp-course-enrolment-portal/index.html",
+    "main.2e67aa29.css.map": "/rp-course-enrolment-portal/static/css/main.2e67aa29.css.map",
+    "main.1faf5bdf.js.map": "/rp-course-enrolment-portal/static/js/main.1faf5bdf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2e67aa29.css",
+    "static/js/main.1faf5bdf.js"
+  ]
+}
